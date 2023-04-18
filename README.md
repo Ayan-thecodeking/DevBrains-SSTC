@@ -8,8 +8,8 @@ To get started, simply visit the website at devbrainsclub.com. From there, you c
 
 ## Features
 
--Home page featuring the latest news and announcements from the club
--Events page with information on upcoming club events and competitions
+- Home page featuring the latest news and announcements from the club
+- Events page with information on upcoming club events and competitions
 -Resources page with links to helpful resources and tools for learning and development
 -Contact page with contact information for the club officers and advisors
 -Newsletter sign-up form for receiving club updates and announcements via email
