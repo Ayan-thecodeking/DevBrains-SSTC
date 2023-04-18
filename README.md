@@ -1,6 +1,4 @@
-# DevBrains-SSTC
-
-# DevBrains Club Website
+# DevBrains SSTC Website
 Welcome to the DevBrains Club website! This website was created to keep our club students informed about the latest initiatives, events, and opportunities available to them.
 
 ## Getting Started
