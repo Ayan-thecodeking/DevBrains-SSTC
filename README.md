@@ -2,7 +2,7 @@
 Welcome to the DevBrains Club website! This website was created to keep our club students informed about the latest initiatives, events, and opportunities available to them.
 
 ## Getting Started
-To get started, simply visit the website at DevBrains[http://devbrains-sstc.netlify.app] Club. From there, you can browse the different sections to learn about our club, upcoming events, and more.
+To get started, simply visit the website at [Website](http://devbrains-sstc.netlify.app) Club. From there, you can browse the different sections to learn about our club, upcoming events, and more.
 
 ## Features
 
